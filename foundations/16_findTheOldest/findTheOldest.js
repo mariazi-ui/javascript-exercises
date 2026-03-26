@@ -1,4 +1,8 @@
-const findTheOldest = function() {
+const findTheOldest = function(people) {
+    /**
+     * compare the age of all elements in an object.
+     */
+
 
 };
 
